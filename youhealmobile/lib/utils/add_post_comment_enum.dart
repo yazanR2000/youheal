@@ -1,0 +1,4 @@
+enum PostOrComment {
+  post,
+  comment
+}

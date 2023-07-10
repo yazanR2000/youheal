@@ -1,0 +1,17 @@
+<svg id="pill" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55.534" height="55.534" viewBox="0 0 55.534 55.534">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ed1c24"/>
+      <stop offset="0.08" stop-color="#e71e28"/>
+      <stop offset="0.18" stop-color="#d72535"/>
+      <stop offset="0.29" stop-color="#be304a"/>
+      <stop offset="0.42" stop-color="#9a4068"/>
+      <stop offset="0.54" stop-color="#6c538e"/>
+      <stop offset="0.64" stop-color="#4565af"/>
+      <stop offset="1" stop-color="#23b89a"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_1208" data-name="Path 1208" d="M181.237,20.672a15.984,15.984,0,0,0-22.578,0L148.624,30.708,171.2,53.286l10.035-10.035A15.984,15.984,0,0,0,181.237,20.672Z" transform="translate(-132.146 -14.23)" fill="url(#linear-gradient)"/>
+  <path id="Path_1209" data-name="Path 1209" d="M50.345,5.189a17.756,17.756,0,0,0-25.087,0L5.189,25.259a17.756,17.756,0,0,0,0,25.087h0a17.756,17.756,0,0,0,25.087,0l20.07-20.07a17.756,17.756,0,0,0,0-25.087ZM47.837,27.767l-20.07,20.07a14.21,14.21,0,0,1-20.07,0L6.443,49.091,7.7,47.837a14.21,14.21,0,0,1,0-20.07L27.767,7.7a14.192,14.192,0,0,1,20.07,20.07Z" transform="translate(0 0)" fill="#4d4d4d"/>
+  <path id="Path_1210" data-name="Path 1210" d="M69.605,281.444a7.107,7.107,0,0,1,0-10.035A1.774,1.774,0,0,0,67.1,268.9a10.655,10.655,0,0,0,0,15.052,1.774,1.774,0,0,0,2.51-2.508Z" transform="translate(-56.89 -238.625)" fill="url(#linear-gradient)"/>
+</svg>

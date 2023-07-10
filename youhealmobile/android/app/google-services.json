@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1007800538811",
+    "project_id": "youheal-2381e",
+    "storage_bucket": "youheal-2381e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007800538811:android:a7150e95ce3a8a706efb9e",
+        "android_client_info": {
+          "package_name": "com.aissco.youheal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007800538811-nvsk344k3uejh07upmsljc6hrco4kmjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lqD8T36OXTmXVGd4mIPlz0dPCaHUfCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007800538811-nvsk344k3uejh07upmsljc6hrco4kmjg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1007800538811-92lpuin0qrpb5gkgdo7gs1rnvjpf83c1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aissco.youheal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
