@@ -52,30 +52,7 @@ class PhoneNumberField extends StatelessWidget {
           initialCountryCode: "JO",
           
           textInputAction: TextInputAction.next,
-          countries: const [
-            "JO",
-            "QA",
-            "SA",
-            "MA",
-            "AE",
-            "BH",
-            "OM",
-            "KW",
-            "EG",
-            "SY",
-            "MG",
-            "LY",
-            "PS",
-            "DZ",
-            "MR",
-            "LB",
-            "SD",
-            "IQ",
-            "YE",
-            "DJ",
-            "SO",
-            "KM"
-          ],
+
           disableLengthCheck: true,
           showDropdownIcon: false,
           
