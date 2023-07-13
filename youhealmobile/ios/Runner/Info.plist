@@ -22,12 +22,13 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
-	<key>CFBundleLocalizations</key>
 	<key>NSAppTransportSecurity</key>
-	<array>
-		<string>en</string>
-		<string>ar</string>
-	</array>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<!-- Add your domain-specific exceptions here -->
+		</dict>
+	</dict>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>To let user upload images</string>
 	<key>NSCameraUsageDescription</key>
@@ -44,7 +45,7 @@
 	<array>
 		<string>en</string>
 		<string>ar</string>
-	</array>	
+	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
